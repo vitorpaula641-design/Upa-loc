@@ -1,0 +1,5 @@
+node_modules/
+locations.db
+locations.db-shm
+locations.db-wal
+.env
